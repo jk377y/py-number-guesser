@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## *Description*
-This is a game where the user guesses the number that the random module generates.  The user is prompted to enter a number between 1 and 100.  If the user guesses correctly, the game ends.  If the user guesses incorrectly, the game will tell the user if the guess was too high or too low.  The user will be prompted to guess again until the correct number is guessed.  The game will keep track of the number of guesses and the number of games played.  The user can quit the game at any time by pressing 'q'.  When the user quits, the game will display the number of games played and the average number of guesses per game.
+This is a game where the user guesses the number that the random module generates.  The user is prompted to enter a number between 1 and 1000.  If the user guesses correctly, the game ends.  If the user guesses incorrectly, the game will tell the user if the guess was too high or too low.  The user will be prompted to guess again until the correct number is guessed.  The game will keep track of the number of guesses and the number of games played.  The user can quit the game at any time by pressing 'q'.  When the user quits, the game will display the number of games played and the average number of guesses per game.
 <br>
 
 ## *Installation*
