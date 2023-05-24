@@ -12,8 +12,9 @@ To install this game, simply clone the repository and run the `number-guesser.py
 
 ## *Usage*
 When prompted:<br>
-Press 1, 2, or 3 to select your choice of paper, rock, or scissors.  
-Press 'q' to quit and see the totals.
+Enter a number between 1 - 1000.  
+OR<br>
+Enter 'q' to quit.
 <br>
 
 ![screenshot1](images/screenshot1.JPG)
